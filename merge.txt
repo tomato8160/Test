@@ -7,3 +7,5 @@ merge2
 merge3
 
 merge new
+
+merge master
